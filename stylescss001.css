@@ -1,0 +1,54 @@
+ <style>
+        
+           
+       
+
+        .card {
+            height: 370px;
+            margin-top: auto;
+            margin-bottom: auto;
+            width: 400px;
+           
+        }
+
+        .card-header {
+            background: #f7f7f7
+        }
+        .card-header h3 {
+            color: black;
+        }
+
+        .card-body{
+            display: flex;
+            justify-content: space-between;
+            flex-direction: row;
+            align-items: center;
+        }
+        .card-content{
+                display: inline-flex;
+                align-items: center;
+                width: 25%;
+        }
+               
+        .Add_btn {
+            color: black;
+            background-color: #FFC312;
+            width: 100px;
+        }
+
+            .Add_btn:hover {
+                color: black;
+                background-color: white;
+            }
+
+        .tabl {
+           
+            width= 100%;
+            }
+
+            .tab-list {
+             vertical-align:middle;
+            }
+       
+    
+    </style>
